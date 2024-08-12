@@ -1,34 +1,23 @@
+Análise do Artigo de Hack de Segurança Cibernética: Extração de Dados Eferentes Objetivo: Recuro Sabelecimento e Ensentencime Encontrado de Artigos Sobre Velações de Graça de Cibersa Ciberscursa, Priorizando a Concisão e uma Ordem.
 
-Cybersecurity Hack Article Analysis: Efficient Data Extraction
+Instruções: Para Cada Artigo, EXTRAIA COMO INFORMAÇÕES ESPENCAS DE ABAIXO, APRESENTando -COMO Uma organização de formato e sugestão.
 
-Objective: To swiftly and effectively gather essential information from articles about cybersecurity breaches, prioritizing conciseness and order.
-
-Instructions:
-For each article, extract the specified information below, presenting it in an organized and succinct format. Ensure to directly utilize the article's content without making inferential conclusions.
-
-- Attack Date: YYYY-MM-DD
-- Summary: A concise overview in one sentence.
-- Key Details:
-    - Attack Type: Main method used (e.g., "Ransomware").
-    - Vulnerable Component: The exploited element (e.g., "Email system").
-    - Attacker Information: 
-        - Name/Organization: When available (e.g., "APT28").
-        - Country of Origin: If identified (e.g., "China").
-    - Target Information:
-        - Name: The targeted entity.
-        - Country: Location of impact (e.g., "USA").
-        - Size: Entity size (e.g., "Large enterprise").
-        - Industry: Affected sector (e.g., "Healthcare").
-    - Incident Details:
-        - CVE's: Identified CVEs (e.g., CVE-XXX, CVE-XXX).
-        - Accounts Compromised: Quantity (e.g., "5000").
-        - Business Impact: Brief description (e.g., "Operational disruption").
-        - Impact Explanation: In one sentence.
-        - Root Cause: Principal reason (e.g., "Unpatched software").
-- Analysis & Recommendations:
-    - MITRE ATT&CK Analysis: Applicable tactics/techniques (e.g., "T1566, T1486").
-    - Atomic Red Team Atomics: Recommended tests (e.g., "T1566.001").
-    - Remediation:
-        - Recommendation: Summary of action (e.g., "Implement MFA").
-        - Action Plan: Stepwise approach (e.g., "1. Update software, 2. Train staff").
-    - Lessons Learned: Brief insights gained that could prevent future incidents.
+-Dados de Ataque: AAAA-MM-DD - Resumo: Uma Visão Geral Concisa Em uma Frase.
+- Detexhes -Chave: - Tipo de Ataque: Método DIRETOR USADO (POR OSMPLO, "Ransomware").
+- Componente Vulnerável: o elemento explorado (por exemplo, "sistema de email").
+- Informações do invasor: - Nome/Organizador: Quando Dispon Svel (POR OSMPLO, "APT28").
+- País de origem: SE Identificado (por exemplo, "China").
+- Informações de Destino: - Nome: um Diretor Diretor.
+- PAís: Localização de Impacto (por exemplo, "EUA").
+- TAMANHO: TAMANHO DA INTIDADE (POR OSMPLO, "Grande Empresa").
+- Indústria: Setor Afetado (por exemplo, "saúde").
+- Índices de detexos: -CVE: CVES Identificadas (POR OSMPLO, CVE-XXX, CVE-XXX).
+- CONTAS Comprometidas: Quantidade (POR OSMPLO, "5000").
+- Impacto nos negócios: descrição de brea (por exemplo, "desrespeito operacional").
+- Explicação de Impacto: Em uma Frase.
+- Causa RAIZ: Principal Razão (POR OSMPLO, "Software Não Patched").
+- Análise e recomendações: - Análise de Mitre att e ck: táctas/técricas Aplicáveis​​(por exemplo, "T1566, T1486").
+- Atomics atômicos da Equipe Vermelha: Testes Recomendados (POR OSMPLO, "T1566.001").
+- Remediado: - Recomendação: Resumo da Aça (por exemplo, "implementar MFA").
+- Plano de Aça: Abordagem Stepwise (por exemplo, "1. Software De Atualizador, 2. Funcionários do Trem").
+- Lças Aprendidas: Informações Breves encontradas que poderiam impedir Futuros Incidentes.

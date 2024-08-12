@@ -1,39 +1,39 @@
-Construct a comprehensive tenant screening questionnaire for [Property Management Company] to use during the rental application process. The questionnaire should be divided into the following sections:
+Elabore um questionário abrangente de triagem de inquilinos para [Empresa de Administração de Imóveis] usar durante o processo de solicitação de aluguel. O questionário deve ser dividido nas seguintes seções:
 
-1. **Rental History**
-   - How long have you lived at your current address?
-   - Why are you moving from your current residence?
-   - Have you ever been evicted? If yes, please explain the circumstances.
-   - Can you provide contact information for your previous landlords?
+1. **Histórico de Aluguel**
+- Há quanto tempo você mora no seu endereço atual?
+- Por que você está se mudando da sua residência atual?
+- Você já foi despejado? Se sim, explique as circunstâncias.
+- Você pode fornecer informações de contato dos seus antigos proprietários?
 
-2. **Financial Stability**
-   - What is your current monthly income?
-   - Can you provide proof of income (e.g., pay stubs, bank statements)?
-   - Do you have any outstanding debts or financial obligations? If yes, please specify.
-   - Have you ever filed for bankruptcy? If yes, please provide details.
+2. **Estabilidade Financeira**
+- Qual é a sua renda mensal atual?
+- Você pode fornecer comprovante de renda (por exemplo, recibos de pagamento, extratos bancários)?
+- Você tem alguma dívida ou obrigação financeira pendente? Se sim, especifique.
+- Você já entrou com pedido de falência? Se sim, forneça detalhes.
 
-3. **Employment Verification**
-   - What is your current employment status?
-   - Who is your current employer, and what is your position?
-   - How long have you been employed with your current employer?
-   - Can you provide contact information for your employer for verification purposes?
+3. **Verificação de Emprego**
+- Qual é o seu status de emprego atual?
+- Quem é seu empregador atual e qual é sua posição?
+- Há quanto tempo você está empregado no seu empregador atual?
+- Você pode fornecer informações de contato do seu empregador para fins de verificação?
 
-4. **Previous Landlord References**
-   - Please provide the names and contact information of your last two landlords.
-   - How long did you reside at each of these addresses?
-   - Were there any issues during your tenancy that we should be aware of?
+4. **Referências de proprietários anteriores**
+- Forneça os nomes e informações de contato dos seus dois últimos proprietários.
+- Por quanto tempo você residiu em cada um desses endereços?
+- Houve algum problema durante sua locação que devamos estar cientes?
 
-5. **Personal References**
-   - Please provide the names and contact information of two personal references.
-   - How do you know these individuals, and for how long?
-   - Can they vouch for your reliability and character?
+5. **Referências pessoais**
+- Forneça os nomes e informações de contato de duas referências pessoais.
+- Como você conhece essas pessoas e há quanto tempo?
+- Elas podem atestar sua confiabilidade e caráter?
 
-6. **Legal Considerations**
-   - Ensure that all questions comply with fair housing laws and do not discriminate based on race, color, religion, sex, national origin, familial status, or disability.
-   - Include a disclaimer that all information provided will be used solely for the purpose of evaluating the rental application.
+6. **Considerações legais**
+- Certifique-se de que todas as perguntas estejam em conformidade com as leis de moradia justa e não discriminem com base em raça, cor, religião, sexo, nacionalidade, estado civil ou deficiência.
+- Inclua uma isenção de responsabilidade de que todas as informações fornecidas serão usadas exclusivamente para fins de avaliação do pedido de aluguel.
 
-7. **Digital Tools and Platforms**
-   - Suggest using digital platforms such as Google Forms, JotForm, or Typeform for efficient distribution and collection of responses.
-   - Recommend property management software like AppFolio or Buildium for analyzing and storing applicant data securely.
+7. **Ferramentas e plataformas digitais**
+- Sugira o uso de plataformas digitais como Google Forms, JotForm ou Typeform para distribuição e coleta eficientes de respostas.
+- Recomende software de gerenciamento de propriedades como AppFolio ou Buildium para analisar e armazenar dados do candidato com segurança.
 
-Provide clear instructions on how to fill out the questionnaire and ensure applicants understand the importance of providing accurate and truthful information. Additionally, include a section where applicants can acknowledge that they have read and understood the terms and conditions of the application process.
+Forneça instruções claras sobre como preencher o questionário e garanta que os candidatos entendam a importância de fornecer informações precisas e verdadeiras. Além disso, inclua uma seção onde os candidatos possam reconhecer que leram e entenderam os termos e condições do processo de inscrição.

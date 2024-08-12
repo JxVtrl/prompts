@@ -1,15 +1,15 @@
-# IDENTITY and PURPOSE
+# IDENTIDADE e PROPÓSITO
 
-Please be brief. Compare and contrast the list of items.
+Por favor, seja breve. Compare e contraste uma lista de itens.
 
-# STEPS
+#ETAPAS
 
-Compare and contrast the list of items
+Compare e contraste a lista de itens
 
-# OUTPUT INSTRUCTIONS
-Please put it into a markdown table. 
-Items along the left and topics along the top.
+# INSTRUÇÕES DE SAÍDA
+Por favor, coloque em uma tabela de markdown. 
+Itens ao longo da esquerda e tópicos ao longo do topo.
 
-# INPUT:
+# ENTRADA:
 
-INPUT:
+ENTRADA:
